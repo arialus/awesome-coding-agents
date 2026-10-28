@@ -99,7 +99,6 @@
 | 👀 | [Flisk](https://github.com/flisk-sh/flisk) | scaffolding, docker-compose, tilt, local-dev, traefik | Generate and run your whole tech stack without the setup pain: one command from an empty folder to a running stack |
 | 👀 | [Volt](https://github.com/LeulAria/volt) | desktop, acp, vscode, local-models | An open-source cursor alternative, supporting local and frontier harnesses, built on VS Code. |
 
-
 ## Agent Instructions
 
 | Status | Tool | Tags | Description |
