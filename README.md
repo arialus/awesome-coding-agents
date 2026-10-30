@@ -100,6 +100,7 @@
 | 👀 | [deed-page-skill](https://github.com/f-o-x11/deed-page-skill) | skill, publish, static-hosting, mcp, no-account | Agent skill: publish files to a permanent deed.page URL with one curl request. No account. |
 | 👀 | [Flisk](https://github.com/flisk-sh/flisk) | scaffolding, docker-compose, tilt, local-dev, traefik | Generate and run your whole tech stack without the setup pain: one command from an empty folder to a running stack |
 | 👀 | [Quorus](https://github.com/Quorus-dev/Quorus) | multi-agent, rooms, cross-review, git-worktrees, mcp | Quorus AI: multi-agent rooms for Claude Code, Codex and opencode. Agents fix in their own git worktrees, review each other and push to your repo. MCP + CLI, MIT. |
+| 👀 | [Open Walnut](https://github.com/EvanZhang008/open-walnut) | web-ui, self-hosted, remote-ssh, mobile, session-diff | Claude Code on your laptop and remote dev boxes, in one web page. Sessions keep running when SSH drops (no tmux), each session's changes get their own diff, plus tasks, notes, and memory. Self-hosted. |
 
 ## Agent Instructions
 
