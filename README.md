@@ -103,6 +103,7 @@
 | 👀 | [Open Walnut](https://github.com/EvanZhang008/open-walnut) | web-ui, self-hosted, remote-ssh, mobile, session-diff | Claude Code on your laptop and remote dev boxes, in one web page. Sessions keep running when SSH drops (no tmux), each session's changes get their own diff, plus tasks, notes, and memory. Self-hosted. |
 | 👀 | [Orbi](https://github.com/orbi-build/orbi) | github-issues, background, review-gate, self-hosted | Open-source (AGPL-3.0), self-hostable lights-out software factory for the agent era: label a GitHub Issue, get an independently reviewed, merged PR and a tagged release. |
 | 👀 | [VibeDesk](https://github.com/fxd-gif/vibedesk) | windows, desktop, parallel-sessions, phone-approvals, mcp | The calm vibe-coding IDE for Claude Code on Windows: run several sessions at a glance, approve requests from desk or phone, live preview, git and project memory – with rain on the window and lofi in your ears. Free & open source. |
+| 👀 | [Kanzo](https://github.com/emanuele-em/kanzo) | kanban, mcp, self-hosted, local-first, single-binary | Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup. |
 
 ## Agent Instructions
 
